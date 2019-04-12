@@ -1,0 +1,89 @@
+
+ body {
+        margin: 0;
+                }
+.header {
+background-color:rgba(204, 201, 201, 0.452);
+padding: 20px;
+text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.header {
+  background-color:rgba(204, 201, 201, 0.452);
+  padding: 20px;
+  text-align: center;
+}
+.topnav {
+  overflow: hidden;
+  background-color:rgba(204, 201, 201, 0.452);
+}
+.topnav a {
+  float: left;
+  display: block;
+  color:azure;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  background-color:rgb(255, 255, 255);
+  color:azure;
+}
+body{
+    background-image:url(seas.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+}
+h1 {
+    left:  0;
+    line-height:  200px;
+    margin-top:  -100px;
+    position:  absolute;
+    text-align:    center;
+    top:   50%;
+    width:  100%;
+}  
+      h2 {
+          color: azure;
+         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif     
+        }
+        h1 {
+  border-color: azure;
+  border-width: .100em;
+  border-style: double;
+  }
+     
+  .float-left-area  {
+		  width: 70%;
+		  float: left;
+		  }
+
+.float-right-area {
+		  width: 30%;
+		  float: left;
+		  }
+
+.inner-left	  {
+		  padding: 5px 5px 5px 5px;
+		  margin-right: 10px;
+		  border: #999999 1px solid;
+		  min-height: 60px;
+		  }
+
+.inner-right	  {
+		  font-size: 11px;
+		  padding: 5px 5px 5px 5px;
+		  border: #999999 1px solid;
+		  min-height: 60px;
+		  }
+     
+                               
